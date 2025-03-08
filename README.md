@@ -49,5 +49,3 @@ The following libraries are used in this project:
 5. **Model Evaluation**:
    - Evaluate the model using accuracy, precision, recall, and F1-score.
 
-## File Structure
-
